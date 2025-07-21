@@ -209,12 +209,7 @@ nav {
   nav{
     background-color: white;
   }
-  /* .menu-toggle .fa-times{
-        display: none;
-    }
-    .fa-bars{
-        display: block;
-    } */
+  
 }
 .hero {
   position: relative;
@@ -229,7 +224,7 @@ nav {
   height: 100vh;
   object-fit: cover;
   position: absolute;
-  padding-top: 20px;
+  /* padding-top: 20px; */
 }
 .hero .list-items {
   width: 100%;
