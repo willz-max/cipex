@@ -227,8 +227,9 @@ nav {
 .hero-img {
   width: 100%;
   height: 100vh;
-  /* object-fit: cover; */
+  object-fit: contain;
   position: absolute;
+  padding-top: 20px;
 }
 .hero .list-items {
   width: 100%;
